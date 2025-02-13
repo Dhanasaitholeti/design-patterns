@@ -1,0 +1,20 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "A repo for learning design patterns using typescript",
+  "main": "index.js",
+  "scripts": {
+    "strategy": "ts-node src/strategy_pattern/index.ts"
+  },
+  "keywords": [
+    "design_patterns",
+    "typescript",
+    "software_engineerin"
+  ],
+  "author": "Dhanasai Tholeti",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.2",
+    "ts-node": "^10.9.2"
+  }
+}
